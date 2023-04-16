@@ -1,0 +1,3 @@
+https://react-app-seo-helmet.netlify.app/
+https://react-app-seo-helmet.netlify.app/login
+https://react-app-seo-helmet.netlify.app/shop
