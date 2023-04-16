@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow: /login
+Sitemap: https://react-app-seo-helmet.netlify.app/sitemap.txt
